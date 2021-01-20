@@ -9,14 +9,5 @@ public class Test2 {
         System.out.println("张三4===============");
         System.out.println("张三4===============");
         System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
-        System.out.println("张三4===============");
     }
 }
